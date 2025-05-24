@@ -1,1 +1,7 @@
 flet==0.28.3
+numpy
+tensorflow
+keras
+nltk
+unidecode
+
